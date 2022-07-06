@@ -1,0 +1,10 @@
+x=10;
+y=10;
+a=x+y;
+b=x-y;
+c=x*y;
+d=x/y;
+console.log("the addition is "+a);
+console.log("the subtraction is "+b);
+console.log("the multiplication is "+c);
+console.log("the division is "+d);
