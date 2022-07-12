@@ -1,5 +1,5 @@
-a = 60;
-b = 20;
+var a = 60;
+var b = 20;
 if (a>b) {
     console.log("the number is larger");
 } else {

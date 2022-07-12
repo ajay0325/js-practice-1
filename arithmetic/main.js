@@ -1,5 +1,5 @@
-x=10;
-y=10;
+var x=10;
+var y=10;
 a=x+y;
 b=x-y;
 c=x*y;

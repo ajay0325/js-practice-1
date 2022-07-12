@@ -1,4 +1,4 @@
-a = 10;
+var a = 10;
 area = a*a;
 perimeter = 4*a;
 console.log("area of square is "+area);

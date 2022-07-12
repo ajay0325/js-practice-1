@@ -1,6 +1,6 @@
-a = 10;
-b = 20;
-c = 30;
+var a = 10;
+var b = 20;
+var c = 30;
 total = a+b+c;
 avg = total/3;
 console.log("total is "+total);
